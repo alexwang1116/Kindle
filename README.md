@@ -27,6 +27,7 @@ http://www.ireadweek.com/index.php/Index/index.html
 6. [《论美国的民主》](http://www.ireadweek.com/index.php/bookInfo/727.html) [法] 托克维尔 (Tocqueville)
 7. [《冰与火之歌》（A Song of Ice and Fire）](http://www.ireadweek.com/index.php/bookInfo/880.html)[美] 乔治·R·R·马丁（George R.R. Martin）
 8. [《简•爱》](http://www.ireadweek.com/index.php/bookInfo/523.html) [英] 夏洛蒂·勃朗特
-9.   
-
+9. [《巨人的陨落》](http://www.ireadweek.com/index.php/bookInfo/446.html) [英] 肯·福莱特（Ken Follett）
+10. [《追忆似水年华（上下册）》](http://mebook.cc/5211.html) [法] M.普鲁斯特
+11. 
  
