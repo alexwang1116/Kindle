@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 3/13/2019 11:58:36 AM）
+## Kindle Resources （Last Update: 3/13/2019 12:02:14 PM）
 
 ### 📚 Related Websites 
 
@@ -70,13 +70,13 @@ https://www.oreilly.com/programming/free/
 **Ebook-dl **    
 http://ebook-dl.com/
 
-**❤️免费的计算机编程类中文书籍**    
+**免费的计算机编程类中文书籍**❤️    
 https://github.com/justjavac/free-programming-books-zh_CN
 
-**❤️Ebook Foundation_free-programming-books**    
+**Ebook Foundation_free-programming-books**❤️    
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 
-**❤️*Awesome* lists about all kinds of interesting topics**     
+***Awesome* lists about all kinds of interesting topics**❤️     
 https://github.com/sindresorhus/awesome
 
 **pdfdrive**     
