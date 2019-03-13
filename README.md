@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 3/13/2019 11:12:44 AM）
+## Kindle Resources （Last Update: 3/13/2019 11:50:52 AM）
 
 ### Related Websites
 
@@ -60,7 +60,48 @@ http://freepdf-books.com/
 
 **DropPdf
 *Upload. Share. Quick, Easy and Smart***    
-droppdf.com/ 
+http://www.droppdf.com/
+
+**Fox eBook**    
+https://www.foxebook.net/
+
+**O-REILLY-Free Programming Ebooks**     
+https://www.oreilly.com/programming/free/
+
+**Ebook-dl **    
+http://ebook-dl.com/
+
+**免费的计算机编程类中文书籍**    
+https://github.com/justjavac/free-programming-books-zh_CN
+
+**❤️Ebook Foundation_free-programming-books **    
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+
+**❤️*Awesome* lists about all kinds of interesting topics**     
+https://github.com/sindresorhus/awesome
+
+**pdfdrive**     
+https://www.pdfdrive.com/
+
+**计算机书籍控**    
+http://bestcbooks.com/
+
+**编程类开放书籍荟萃**    
+https://linuxstory.org/free-chinese-programming-books/
+
+**计算机开放电子书汇总**
+http://it-ebooks.flygon.net/ebook/
+
+**电子书存档页面**
+https://salttiger.com/archives/
+
+**Netkiller 系列电子书**
+https://www.netkiller.cn/
+
+
+
+
+
 
 
 ### E-Books Contents
