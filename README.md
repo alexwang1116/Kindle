@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 3/13/2019 11:52:31 AM）
+## Kindle Resources （Last Update: 3/13/2019 11:55:41 AM）
 
 ### Related Websites
 
@@ -40,7 +40,6 @@ https://skebooks.com/
 
 ### IT编程电子书网站
 
-**ITBOOK.TOP（免费IT电子书分享下载）**    
 
 **网友总结版**    
 https://www.jianshu.com/p/c84eda9b50ad
