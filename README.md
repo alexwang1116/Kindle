@@ -67,7 +67,7 @@ https://www.foxebook.net/
 **O-REILLY-Free Programming Ebooks**     
 https://www.oreilly.com/programming/free/
 
-**Ebook-dl **    
+**Ebook-dl**    
 http://ebook-dl.com/
 
 **免费的计算机编程类中文书籍** ❤️    
