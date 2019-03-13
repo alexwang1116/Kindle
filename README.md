@@ -1,4 +1,4 @@
-## Kindle Resources
+## Kindle Resources （Last Update: 3/13/2019 11:12:44 AM）
 
 ### Related Websites
 
@@ -11,6 +11,57 @@ http://www.mebook.cc/
 
 **周读**
 http://www.ireadweek.com/index.php/Index/index.html
+
+**云海电子图书馆**    
+http://www.pdfbook.cn/
+
+**苦瓜书盘**    
+https://www.kgbook.com//
+
+**kindle178**    
+http://www.seo630.com/
+
+**走读派（系统维护中）**    
+http://www.zoudupai.com/
+
+**奇异书屋**    
+https://www.talebook.org/
+
+**书伴（图书资源）**    
+https://bookfere.com/ebook
+
+**书多多**    
+http://booksduo.com/#/page/1
+
+**skEbooks**    
+https://skebooks.com/
+
+
+
+### IT编程电子书网站
+
+**ITBOOK.TOP（免费IT电子书分享下载）**    
+
+**网友总结版**    
+https://www.jianshu.com/p/c84eda9b50ad
+
+**FreeComputerBooks**    
+http://freecomputerbooks.com/
+
+**All IT eBooks**     
+http://www.allitebooks.com/
+
+**IT eBooks
+*Download, Read, Use***     
+http://it-ebooks.info/
+
+**Free Pdf Books**    
+http://freepdf-books.com/
+
+**DropPdf
+*Upload. Share. Quick, Easy and Smart***    
+droppdf.com/ 
+
 
 ### E-Books Contents
 
