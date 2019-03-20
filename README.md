@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 3/20/2019 11:13:03 AM）
+## Kindle Resources （Last Update: 3/20/2019 11:23:42 AM）
 
 ### 📚 Related Websites 
 
@@ -131,8 +131,9 @@ https://www.netkiller.cn/
 [《中国哲学常识》](http://mebook.cc/26238.html) 胡适    
 [《中国文物常识》](http://mebook.cc/25993.html) 沈从文   
 17. [《《自然》百年科学经典（第一卷）(英汉对照版)(1869-1930)》](http://mebook.cc/23940.html) 赫胥黎 等
-18. [《儒林外史(绣像珍藏本)》](http://mebook.cc/18207.html) [清]吴敬梓 
-19.     
+18. [《儒林外史(绣像珍藏本)》](http://mebook.cc/18207.html) [清] 吴敬梓 
+19. [《麦田里的守望者》](http://www.ireadweek.com/index.php/bookInfo/368.html) [美] J.D.塞林格 
+20.   
 
   
 
