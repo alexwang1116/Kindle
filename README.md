@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 4/19/2019 2:39:19 PM）
+## Kindle Resources （Last Update: 5/7/2019 12:30:44 PM）
 
 ### 📚 Related Websites 
 
@@ -14,6 +14,14 @@ http://www.ireadweek.com/index.php/Index/index.html
 
 **云海电子图书馆** ❤️    
 http://www.pdfbook.cn/
+
+**Library Genesis**❤️    
+gen.lib.rus.ec/
+
+**bookzz**❤️    
+https://b-ok.org/    
+https://booksc.org/
+
 
 **苦瓜书盘**    
 https://www.kgbook.com//
@@ -133,7 +141,7 @@ https://www.netkiller.cn/
 17. [《《自然》百年科学经典（第一卷）(英汉对照版)(1869-1930)》](http://mebook.cc/23940.html) 赫胥黎 等
 18. [《儒林外史(绣像珍藏本)》](http://mebook.cc/18207.html) [清] 吴敬梓 
 19. [《麦田里的守望者》](http://www.ireadweek.com/index.php/bookInfo/368.html) [美] J.D.塞林格 
-20. [Emperor Qianlong Son of Heaven, Man of the World](https://b-ok.org/book/2705192/7acb7f) [美] 欧立德（Mark Elliott）❤️ 
+20. [Emperor Qianlong Son of Heaven, Man of the World](https://b-ok.org/book/2705192/7acb7f) （《乾隆帝：天子，宇内之主》）[美] 欧立德（Mark Elliott）❤️ 
 21. [The Art of Being Governed: Everyday Politics in Late Imperial China](https://b-ok.org/book/3413897/c7b7da) [加] 宋怡明（Michael Szonyi）❤️ 
 22. 
   
