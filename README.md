@@ -16,7 +16,7 @@ http://www.ireadweek.com/index.php/Index/index.html
 http://www.pdfbook.cn/
 
 **Library Genesis**❤️    
-gen.lib.rus.ec/
+http://gen.lib.rus.ec/
 
 **bookzz**❤️    
 https://b-ok.org/    
