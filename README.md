@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 5/7/2019 12:30:44 PM）
+## Kindle Resources （Last Update: 5/8/2019 10:24:26 AM）
 
 ### 📚 Related Websites 
 
@@ -96,13 +96,13 @@ http://bestcbooks.com/
 **编程类开放书籍荟萃**    
 https://linuxstory.org/free-chinese-programming-books/
 
-**计算机开放电子书汇总**
+**计算机开放电子书汇总**    
 http://it-ebooks.flygon.net/ebook/
 
-**电子书存档页面**
+**电子书存档页面**    
 https://salttiger.com/archives/
 
-**Netkiller 系列电子书**
+**Netkiller 系列电子书**    
 https://www.netkiller.cn/
 
 
