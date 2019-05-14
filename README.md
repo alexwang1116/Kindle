@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 5/8/2019 10:24:26 AM）
+## Kindle Resources （Last Update: 5/13/2019 8:39:06 PM）
 
 ### 📚 Related Websites 
 
@@ -8,6 +8,9 @@ https://www.jiumodiary.com/
  
 **我的小书屋** ❤️    
 http://www.mebook.cc/
+
+**epubw.com免费优质电子书下载**    
+https://epubw.com/
 
 **周读**    
 http://www.ireadweek.com/index.php/Index/index.html
