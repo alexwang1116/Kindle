@@ -149,7 +149,7 @@ https://www.netkiller.cn/
 18. [《儒林外史(绣像珍藏本)》](http://mebook.cc/18207.html) [清] 吴敬梓 
 19. [《麦田里的守望者》](http://www.ireadweek.com/index.php/bookInfo/368.html) [美] J.D.塞林格 
 20. [Emperor Qianlong Son of Heaven, Man of the World](https://b-ok.org/book/2705192/7acb7f) （《乾隆帝：天子，宇内之主》）[美] 欧立德（Mark Elliott）❤️ 
-21. [The Art of Being Governed: Everyday Politics in Late Imperial China](https://b-ok.org/book/3413897/c7b7da) [加] 宋怡明（Michael Szonyi）❤️ 
+21. [The Art of Being Governed: Everyday Politics in Late Imperial China](https://b-ok.org/book/3413897/c7b7da)（《被管制的艺术》） [加] 宋怡明（Michael Szonyi）❤️ 
 22. 
   
 
