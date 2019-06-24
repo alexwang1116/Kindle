@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 5/13/2019 8:39:06 PM）
+## Kindle Resources （Last Update: 6/24/2019 11:59:37 AM）
 
 ### 📚 Related Websites 
 
@@ -24,6 +24,10 @@ http://gen.lib.rus.ec/
 **bookzz**❤️    
 https://b-ok.org/    
 https://booksc.org/
+
+
+**书语者**❤️    
+https://book.shuyuzhe.com/
 
 
 **苦瓜书盘**    
