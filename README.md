@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 6/24/2019 11:59:37 AM）
+## Kindle Resources （Last Update: 10/24/2019 10:40:12 PM）
 
 ### 📚 Related Websites 
 
@@ -150,7 +150,8 @@ https://www.netkiller.cn/
 19. [《麦田里的守望者》](http://www.ireadweek.com/index.php/bookInfo/368.html) [美] J.D.塞林格 
 20. [Emperor Qianlong Son of Heaven, Man of the World](https://b-ok.org/book/2705192/7acb7f) （《乾隆帝：天子，宇内之主》）[美] 欧立德（Mark Elliott）❤️ 
 21. [The Art of Being Governed: Everyday Politics in Late Imperial China](https://b-ok.org/book/3413897/c7b7da)（《被管制的艺术》） [加] 宋怡明（Michael Szonyi）❤️ 
-22. 
+22. [瓦尔登湖](http://www.ireadweek.com/index.php?m=article&a=index&id=743) [美] 亨利·戴维·梭罗 
+23. 
   
 
   
