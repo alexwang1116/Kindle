@@ -1,55 +1,55 @@
-## Kindle Resources （Last Update: 10/24/2019 10:40:12 PM）
+## Kindle Resources （Last Update: 3/30/2020 9:31:56 PM）
 
 ### 📚 Related Websites 
 
 **jiumo E-book search (鸠摩搜索)** ❤️    
-https://www.jiumodiary.com/
+🚪 https://www.jiumodiary.com/
 
  
-**我的小书屋** ❤️    
-http://www.mebook.cc/
+**我的小书屋** ❤️ （已阵亡……RIP）   
+🚪 http://www.mebook.cc/
 
 **epubw.com免费优质电子书下载**    
-https://epubw.com/
+🚪 https://epubw.com/
 
 **周读**    
-http://www.ireadweek.com/index.php/Index/index.html
+🚪 http://www.ireadweek.com/index.php/Index/index.html
 
 **云海电子图书馆** ❤️    
-http://www.pdfbook.cn/
+🚪 http://www.pdfbook.cn/
 
 **Library Genesis**❤️    
-http://gen.lib.rus.ec/
+🚪 http://gen.lib.rus.ec/
 
 **bookzz**❤️    
-https://b-ok.org/    
-https://booksc.org/
+🚪 https://b-ok.org/    
+🚪 https://booksc.org/
 
 
 **书语者**❤️    
-https://book.shuyuzhe.com/
+🚪 https://book.shuyuzhe.com/
 
 
 **苦瓜书盘**    
-https://www.kgbook.com//
+🚪 https://www.kgbook.com//
 
 **kindle178**    
-http://www.seo630.com/
+🚪 http://www.seo630.com/
 
 **走读派（系统维护中）**    
-http://www.zoudupai.com/
+🚪 http://www.zoudupai.com/
 
 **奇异书屋**    
-https://www.talebook.org/
+🚪 https://www.talebook.org/
 
 **书伴（图书资源）**    
-https://bookfere.com/ebook
+🚪 https://bookfere.com/ebook
 
 **书多多**    
-http://booksduo.com/#/page/1
+🚪 http://booksduo.com/#/page/1
 
 **skEbooks**    
-https://skebooks.com/
+🚪 https://skebooks.com/
 
 
 
@@ -57,62 +57,68 @@ https://skebooks.com/
 
 
 **网友总结版**    
-https://www.jianshu.com/p/c84eda9b50ad
+🚪 https://www.jianshu.com/p/c84eda9b50ad
 
 **FreeComputerBooks**    
-http://freecomputerbooks.com/
+🚪 http://freecomputerbooks.com/
 
 **All IT eBooks**     
-http://www.allitebooks.com/
+🚪 http://www.allitebooks.com/
 
-**IT eBooks
-*Download, Read, Use***     
-http://it-ebooks.info/
+**IT eBooks Download, Read, Use**         
+🚪 http://it-ebooks.info/
 
 **Free Pdf Books**    
-http://freepdf-books.com/
+🚪 http://freepdf-books.com/
 
 **DropPdf
 *Upload. Share. Quick, Easy and Smart***    
-http://www.droppdf.com/
+🚪 http://www.droppdf.com/
 
 **Fox eBook**    
-https://www.foxebook.net/
+🚪 https://www.foxebook.net/
 
 **O-REILLY-Free Programming Ebooks**     
-https://www.oreilly.com/programming/free/
+🚪 https://www.oreilly.com/programming/free/
 
 **Ebook-dl**    
-http://ebook-dl.com/
+🚪 http://ebook-dl.com/
 
 **免费的计算机编程类中文书籍** ❤️    
-https://github.com/justjavac/free-programming-books-zh_CN
+🚪 https://github.com/justjavac/free-programming-books-zh_CN
 
 **Ebook Foundation_free-programming-books** ❤️    
-https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+🚪 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 
 ***Awesome* lists about all kinds of interesting topics** ❤️     
-https://github.com/sindresorhus/awesome
+🚪 https://github.com/sindresorhus/awesome
 
 **pdfdrive**     
-https://www.pdfdrive.com/
+🚪 https://www.pdfdrive.com/
 
 **计算机书籍控**    
-http://bestcbooks.com/
+🚪 http://bestcbooks.com/
 
 **编程类开放书籍荟萃**    
-https://linuxstory.org/free-chinese-programming-books/
+🚪 https://linuxstory.org/free-chinese-programming-books/
 
 **计算机开放电子书汇总**    
-http://it-ebooks.flygon.net/ebook/
+🚪 http://it-ebooks.flygon.net/ebook/
 
 **电子书存档页面**    
-https://salttiger.com/archives/
+🚪 https://salttiger.com/archives/
 
 **Netkiller 系列电子书**    
-https://www.netkiller.cn/
+🚪 https://www.netkiller.cn/ 
 
 
+### 📚 IT经典教材课程
+
+**《算法导论》第三版英文版**    
+🚪 https://github.com/achillh/-/blob/master/%E3%80%8A%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E8%8B%B1%E6%96%87%E7%89%88.pdf
+
+**《算法导论》第三版英文版习题解答Solutions to Introduction to Algorithms Third Edition**    
+🚪 https://walkccc.github.io/CLRS/
 
 
 
