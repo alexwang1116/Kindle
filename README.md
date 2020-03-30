@@ -1,4 +1,4 @@
-## Kindle Resources （Last Update: 3/30/2020 9:37:34 PM）
+## Kindle Resources （Last Update: 3/30/2020 10:34:05 PM）
 
 ### 📚 Related Websites 
 
@@ -114,12 +114,18 @@
 
 ### 📚 IT经典教材课程
 
-**《算法导论》第三版英文版**    
+**1 《算法导论》第三版英文版**    
 🚪 https://github.com/achillh/-/blob/master/%E3%80%8A%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B%E7%AC%AC%E4%B8%89%E7%89%88%E8%8B%B1%E6%96%87%E7%89%88.pdf
 
 **《算法导论》第三版英文版习题解答Solutions to Introduction to Algorithms Third Edition**    
 🚪 https://walkccc.github.io/CLRS/    
-🚪 https://github.com/dandanJing/computer/tree/master/books/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%B8%89%E7%89%88%E8%8B%B1%E6%96%87%E4%B8%8E%E7%AD%94%E6%A1%88
+🚪 https://github.com/dandanJing/computer/tree/master/books/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%B8%89%E7%89%88%E8%8B%B1%E6%96%87%E4%B8%8E%E7%AD%94%E6%A1%88    
+
+**2 《Algorithms》 by Jeff Erickson**
+
+<img src="http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png" width="200" height="300" align="middle" />
+           
+🚪 http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 
 
