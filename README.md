@@ -1,9 +1,12 @@
-## Kindle Resources （Last Update: 3/30/2020 10:34:05 PM）
+## Kindle Resources （Last Update: 5/3/2021 6:20:09 PM）
 
 ### 📚 Related Websites 
 
 **jiumo E-book search (鸠摩搜索)** ❤️    
 🚪 https://www.jiumodiary.com/
+
+**Z Library（神网站）** ❤️  
+🚪 https://2lib.org/
 
  
 **我的小书屋** ❤️ （已阵亡……RIP）   
