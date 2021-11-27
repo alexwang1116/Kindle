@@ -1,6 +1,9 @@
-## Kindle Resources （Last Update: 5/3/2021 6:20:09 PM）
+## Kindle Resources （Last Update: 11/27/2021 3:26:58 PM）
 
 ### 📚 Related Websites 
+
+**Sobook** ❤️ (当前可用)    
+🚪 https://sobooks.cc/
 
 **jiumo E-book search (鸠摩搜索)** ❤️    
 🚪 https://www.jiumodiary.com/
